@@ -1,0 +1,8 @@
+{
+  "inputSize": 640,
+  "classes": [
+    "ID",
+    "card"
+  ],
+  "source": "best.pt"
+}
